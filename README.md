@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mridul1129261
+- 👋 Hi, I’m Mridul Nigam
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python based softwares
